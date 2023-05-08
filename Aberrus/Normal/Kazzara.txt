@@ -1,0 +1,10 @@
+Single phase fight.
+Mechanics target more players and do more damage as the fight progresses.
+
+|cffff00ffWhole Fight|r: 
+|cffff9933DODGE|r and |cffff9933USE DEFENSIVE|r |cff00ffffHellsteel Carnage|r |cfffff600swirly|r at 80%, 60% and 40% HP
+{H}{healer}|cffF8FF64Healers:|r Pulsing raid damage increases after each |cff00ffffHellsteel Carnage|r. Ensure mana and CDs for 40-0%
+{/H}|cffff9933DROP|r |cff00ffffDread Rift|r |cfffff600circle|r near a marker {square} or {triangle}
+|cffff9933KITE|r |cff00ffffRays of Anguish|r |cfffff600laser|r into a |cff00ffffDread Rift|r
+|cffff9933DODGE|r |cff00fff3Hellbeam|r |cfffff600breath|r on random target{H} {healer}|cffF8FF64Healers:|r Pulsing raid damage during this{/H}
+{T}{tank}|cffF8FF64Tanks:|r  |cffff9933TANK SWAP|r on |cff00ffffTerror Claws|r{/T}
