@@ -1,0 +1,24 @@
+Two phase fight.
+Stacks DoTs the longer in each phase. DPS Race.
+
+{!p2}
+|cff00ff00PHASE 1:|r
+|cffFF7000BLOODLUST|r {spell:2825} on pull.
+{T}{tank}|cffF8FF64Tanks:|r  |cffff9933POSITION|r bosses together{/T}
+|cffff9933DPS EVENLY|r to 50%
+
+|cffff9933DROP|r |cff00fff3Umbral Detonation|r |cfffff600purple circle|r away from raid
+|cffff9933SOAK|r |cff00fff3Fiery Meteor|r |cfffff600orange swirly|r
+|cffff9933DISTANCE|r |cff00fff3Coalescing Void|r |cfffff600purple pulse|r
+|cffff9933DODGE|r |cff00fff3Swirling Flame|r |cfffff600frontal tornadoes|r
+{T}{tank}|cffF8FF64Tanks:|r  |cffff9933TANK ONE MOB|r as |cff00ffffShadow Spike|r |cff00ffffFlame Slash|r tank-buster magic damage
+{/T}{H}{healer}|cffF8FF64Healers:|r Constant raid damage throughout
+{/H}{/!p2}
+
+|cff00ff00PHASE 2:|r
+|cffff9933DROP|r |cff00fff3Blistering Twilight|r |cfffff600purple circle|r away from raid then |cffff9933DODGE|r |cfffff600tornadoes|r
+|cffff9933SOAK|r then |cffff9933DISTANCE|r |cff00fff3Gloom Conflagration|r |cfffff600swirly|r{H} {healer}|cffF8FF64Healers:|r Large raid damage{/H}
+{T}{tank}|cffF8FF64Tanks:|r  |cffff9933POSITION|r facing away from raid
+{tank}|cffF8FF64Tanks:|r  |cffff9933POSITION|r slightly apart to avoid sharing |cfffff600frontal cone|r
+{tank}|cffF8FF64Tanks:|r  |cffff9933SWAP|r after |cff00fff3Withering Vulnerability|r
+{/T}
