@@ -1,0 +1,16 @@
+Single phase fight.
+Space is reduced the longer the fight takes
+
+|cffFF7000BLOODLUST|r {spell:2825} on pull.
+
+|cffff00ffWhole Fight|r: 
+|cffff9933AVOID|r |cff00ffffDragonfire Traps|r |cfffff600circles|r. Gives a dispellable debuff
+|cffff9933SWITCH|r and |cffff9933INTERRUPT|r |cffff00ffDragonfire Golems|r
+|cffff9933LOOT|r |cffff00ffDragonfire Golems|r and |cffff9933DISABLE|r |cff00ffffDragonfire Traps|r to give the raid space to move to opposite
+|cffff9933DODGE|r 3x |cff00fff3Tactical Destruction|r |cfffff600breath|r from statues
+|cffff9933IMMUNE / TANK SOAK|r 3x |cff00fff3Shrapnel Bomb|r running over them
+|cffff9933POSITION|r for |cff00fff3Blast Wave|r knockback
+{T}{tank}|cffF8FF64Tanks:|r  |cffff9933TANK SWAP|r on |cff00ffffSearing Claws|r. You can soak some |cff00fff3Shrapnel Bomb|r while waiting 20s for this to drop off
+{tank}|cffF8FF64Tanks:|r  |cffff9933POSITION|r to allow to move away from nearest statues during |cff00fff3Tactical Destruction|r
+{/T}{H}{healer}|cffF8FF64Healers:|r  |cffff9933FOCUS HEAL|r on tank when they soak shrapnel bombs
+{/H}
