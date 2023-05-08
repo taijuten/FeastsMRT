@@ -1,0 +1,34 @@
+Two phase fight.
+
+{p1}
+|cff00ff00PHASE 1 (100-25%):|r
+{g1357}|cffee5555LEFT PLATFORM|r
+{/g}{g2468}|cffee5555RIGHT PLATFORM|r
+{/g}Boss will regularly switch platforms.
+Alternates between Boss & Adds.
+
+|cffee5555BOSS|r
+{T}{tank}|cffF8FF64Tanks:|r  |cffff9933TANK BUSTER|r |cff00fff3Heavy Cudgel|r. Face away from raid, at edge of platform. Will fall off between boss switching platforms.
+{/T}|cffff9933DODGE|r |cff00fff3Devastating Leap|r. Boss arrives.
+|cffff9933DODGE|r and |cffff9933INTERACT|r |cff00fff3Cave Rubble|r |cfffff600swirlies|r.
+|cffff9933RUN TO MARKS|r on edge and |cffff9933ACTION BUTTON|r |cff00fff3Cave Rubble|r to prevent adds climbing.
+
+|cffee5555ADDS|r
+|cffff9933FOCUS|r |cff00fff3Molten Barrier|r on |cffff00ffMagma Mystic|r{H} {healer}|cffee5555This damage increases over time|r{/H}
+|cffff9933INTERRUPT|r |cff00fff3Lava Bolt|r on |cffff00ffMagma Mystic|r
+|cffff9933SPREAD|r and  |cffff9933DODGE|r |cff00fff3Blazing Spear|r |cfffff600circle|r and |cfffff600swirly|r
+|cffff9933DODGE|r |cff00fff3Arbalest Fire|r |cfffff600swirlies|r
+|cffff9933TAG|r |cffff00ffZaqari Wallclimber|r to stop them running at door
+{/p1}
+
+{p2}
+|cff00ff00PHASE 2 (35-0%):|r
+{g1357}|cffee5555CENTRE PLATFORM NEAR DOOR|r
+Boss heals 10% at start
+|cffFF7000BLOODLUST|r {spell:2825} once grouped.
+
+{T}{tank}|cffF8FF64Tanks:|r  |cffff9933TANK BUSTER|r |cff00fff3Heavy Cudgel|r. Face away from raid. Switch at X stacks
+{/T}|cffff9933SPREAD|r during |cff00fff3Flaming Cudgel|r |cfffff600circle|r
+|cffff9933SOAK|r at door |cff00fff3Catastrophic Slam|r |cfffff600swirly|r{H} {healer}|cffee5555Healing CD may be required|r{/H}
+{H} {healer}|cffff9933HEAL|r |cff00fff3Desperate Immolation|r |cfffff600pulsing damage|rfor remainder of phase
+{/H}{/p2}
