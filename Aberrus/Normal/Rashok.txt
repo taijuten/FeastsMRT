@@ -1,0 +1,18 @@
+Two phase fight.
+One phase, one intermission.
+
+|cff00ff00PHASE 1:|r
+|cffFF7000BLOODLUST|r {spell:2825} on pull.
+
+{T}{tank}|cffF8FF64Tanks:|r  |cffff9933SWAP|r |cff00fff3Flaming Slash|r then |cff00fff3Earthen Crush|r combo
+{/T}|cffff9933RUN OUT|r and |cffff9933PLACE|r |cff00fff3Searing Slam|r |cfffff600circle|r. |cffee5555Must NOT touch other lava pools|r
+|cffff9933DODGE|r |cff00fff3Lava Wave|r coming from every pool
+|cffff9933EVERYONE SOAK|r |cff00fff3Charged Smash|r |cfffff600large purple swirly|r
+|cffff9933SOAK|r |cff00fff3Doom Flames|r |cfffff600small purple swirly|r. One player per
+|cffff9933DODGE|r |cff00fff3Shadowlava Blast|r |cfffff600frontal|r{T}
+{tank}|cffF8FF64Tanks:|r  |cffff9933MOVE|r |cffff00ffBoss|r shortly after |cff00fff3Shadowlava Blast|r to middle of room.|cffee5555 Must reach there before 100 energy.|r{/T}
+
+|cff00ff00INTERMISSION:|r
+{H}{healer}|cffF8FF64Healers:|r  |cffff9933HEAL|r |cff00fff3Scorching Heatwave|r constant raid damage
+{/H}|cffff9933DODGE|r |cff00fff3Shadowflame Fissures|r |cfffff600swirly lines|r
+|cffff9933DEFENSIVES|r as |cff00fff3Energy|r approaches 0
