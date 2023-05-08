@@ -1,0 +1,15 @@
+Single phase fight.
+Space is reduced the longer the fight takes
+|cffee5555Kill before 100 energy|r
+
+|cffFF7000BLOODLUST|r {spell:2825} on pull.
+
+|cff00ff00Whole Fight|r: 
+|cffff9933DROP|r |cff00ffffMolten Spittle|r |cfffff600circle|r away, near other puddles
+|cffff9933SOAK|r and |cffff9933DEFENSIVE|r |cff00ffffMagma Puddle|r |cfffff600fire puddle|r to reduce puddle size
+|cffff9933SOAK|r |cff00ffffIgniting Roar|r |cfffff600fire swirly|r with one player. |cffee5555Gives debuff to prevent soaking next|r
+|cffff9933POSITION|r |cff00ffffOverpowering Stomp|r |cfffff600knockback|r. Avoid puddles / knocked off
+|cffff9933DODGE|r |cff00ffffBlazing Breath|r |cfffff600breath|r on random player
+{T}{tank}|cffF8FF64Tanks:|r  |cffff9933TANK SWAP|r on 2x |cff00ffffIncinerating Maws|r
+{T}{tank}|cffF8FF64Tanks:|r  |cffff9933POSITION|r to ensure boss does not step in a puddle
+{/T}
