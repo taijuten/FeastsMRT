@@ -30,5 +30,5 @@ Boss heals 10% at start
 {T}{tank}|cffF8FF64Tanks:|r  |cffff9933TANK BUSTER|r |cff00fff3Heavy Cudgel|r. Face away from raid. Switch at X stacks
 {/T}|cffff9933SPREAD|r during |cff00fff3Flaming Cudgel|r |cfffff600circle|r
 |cffff9933SOAK|r at door |cff00fff3Catastrophic Slam|r |cfffff600swirly|r{H} {healer}|cffee5555Healing CD may be required|r{/H}
-{H} {healer}|cffff9933HEAL|r |cff00fff3Desperate Immolation|r |cfffff600pulsing damage|rfor remainder of phase
+{H}{healer} |cffff9933HEAL|r |cff00fff3Desperate Immolation|r |cfffff600pulsing damage|rfor remainder of phase
 {/H}{/p2}
