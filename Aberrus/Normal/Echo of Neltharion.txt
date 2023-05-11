@@ -1,0 +1,32 @@
+Three phase fight.
+
+Abilities will knock players into walls and break them.
+Only should try to break wall when needed.
+
+{p1}
+|cff00ff00PHASE 1 (100-60%):|r
+{T}{tank}|cffF8FF64Tanks:|r  |cffff9933TANK SWAP|r |cff00fff3Calamitous Strike|r. Knocks back into a wall and breaks
+{/T}|cffff9933DODGE|r |cff00fff3Shattered Rock|r |cfffff600earth swirlies|r
+|cffff9933POSITION|r against room wall {dps}{healer}|cff00fff3Rushing Darkness|r |cfffff600purple arrow knockback|r
+|cffff9933MOVE AWAY|r |cff00fff3Volcanic Heart|r |cfffff600red arrow & circle|r
+|cffff9933DODGE|r and |cffff9933CHANGE SECTION|r |cff00fff3Echoing Fissure|r |cfffff600large red circle|r
+{/p1}
+
+{p2}
+|cff00ff00PHASE 2 (60%-Adds Dead):|r
+|cffff9933DODGE|r |cff00fff3Shattered Rock|r |cfffff600earth swirlies|r
+|cffff9933POSITION|r against room wall |cff00fff3Rushing Darkness|r |cfffff600purple arrow knockback|r
+|cffff9933MOVE AWAY|r |cff00fff3Volcanic Heart|r |cfffff600red arrow & circle|r
+|cffff9933FOCUS ADDS|r |cffff00ffVoice From Beyond|r |cffee5555one at a time|r. Break walls with {dps}{healer}|cff00fff3Rushing Darkness|r and {tank}|cff00fff3Sunder Shadow|r
+|cffff9933DEFENSIVE|r |cff00fff3Umbral Annihilation|r more damage each cast. Stops when adds die.{H}
+{healer}|cffF8FF64Healers:|r this will require heavy healing{/H}{T}
+{tank}|cffF8FF64Tanks:|r  |cffff9933TANK SWAP|r |cff00fff3Rushing Darkness|r. Run through wall to reach nearest add{/T}
+{/p2}
+
+{p3}
+|cff00ff00PHASE 3 (Adds Dead-0%):|r
+{T}{tank}|cffF8FF64Tanks:|r  |cffff9933TANK SWAP|r |cff00fff3Calamitous Strike|r. |cffee5555Don't break walls|r
+{/T}|cffff9933CLEAVE|r |cff00fff3Sunder Reality|r adds |cffff00ffTwisted Abberation|r
+|cffff9933HIDE|r from |cff00fff3Ebon Destruction|r in a |cffff00ffPortal|r. |cffee5555Reduces damage done by 99%|r
+|cffff9933POSITION|r against |cffee5555room wall|r {dps}{healer}|cff00fff3Rushing Darkness|r |cfffff600purple arrow knockback|r
+{/p3}
