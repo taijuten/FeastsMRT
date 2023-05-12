@@ -1,0 +1,35 @@
+Two phase fight.
+Stacks DoTs the longer in each phase. DPS Race.
+
+{!p2}
+|cff00ff00PHASE 1:|r
+|cffFF7000BLOODLUST|r {spell:2825} on pull.
+{T}{tank}|cffF8FF64Tanks:|r  |cffff9933POSITION|r bosses apart{/T}
+{g2468}|cffee5555START ON FIRE|r
+{/g}{g1357}|cffee5555START ON SHADOW|r{/g}
+|cffff9933DPS EVENLY|r to 50%
+|cffff9933DISTANCE|r yourself from other boss 50yard+
+
+|cffff00ffFire|r
+|cffff9933SOAK|r |cff00fff3Fiery Meteor|r |cfffff600orange swirly|r
+|cffff9933DODGE|r |cff00fff3Swirling Flame|r |cfffff600frontal tornadoes|r
+|cffff9933SOAK|r |cff00fff3Molten Eruption|r |cfffff6003x small orange swirly|r 1 player per
+
+
+|cffff00ffShadow|r
+|cffff9933DROP|r |cff00fff3Umbral Detonation|r |cfffff600purple circle|r away from raid
+|cffff9933DISTANCE|r |cff00fff3Coalescing Void|r |cfffff600purple pulse|r
+|cffff9933DODGE|r |cff00fff3Shadows Convergence|r |cfffff600purple orbs|r close in towards boss
+
+{H}{healer}|cffF8FF64Healers:|r Increasing raid damage throughout,
+{/H}{/p}
+
+|cff00ff00PHASE 2:|r
+|cffff9933DROP|r |cff00fff3Blistering Twilight|r |cfffff600purple circle|r away from raid then |cffff9933DODGE|r |cfffff600tornadoes|r
+|cffff9933SOAK|r then |cffff9933DISTANCE|r |cff00fff3Gloom Conflagration|r |cfffff600tornado swirly|r{H} {healer}|cffF8FF64Healers:|r Large raid damage{/H}
+|cffff9933SOAK|r then |cffff9933DODGE|r |cff00fff3Convergent Eruption|r |cfffff600swirly|r one player per
+
+{T}{tank}|cffF8FF64Tanks:|r  |cffff9933POSITION|r facing away from raid
+{tank}|cffF8FF64Tanks:|r  |cffff9933POSITION|r slightly apart to avoid sharing |cfffff600frontal cone|r
+{tank}|cffF8FF64Tanks:|r  |cffff9933SWAP|r after |cff00fff3Withering Vulnerability|r
+{/T}
