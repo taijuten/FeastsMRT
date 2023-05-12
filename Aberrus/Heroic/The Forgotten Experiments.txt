@@ -1,0 +1,30 @@
+Three phase fight.
+One phase per Boss.
+
+{p1}
+|cff00ff00PHASE 1 (Neldris):|r
+
+|cffff9933DROP|r |cff00fff3Rending Charge|r |cfffff600red arrow|r spaced out near {triangle}
+|cffff9933DISTANCE|r |cff00fff3Bellowing Roar|r
+|cffff9933DODGE|r |cff00fff3Massive Slam|r |cfffff600frontal cone|r
+{T}{tank}|cffF8FF64Tanks:|r  |cffff9933TANK SWAP|r at X stacks, no sooner than 20 seconds
+{/T}{/p1}
+{p2}
+|cffFF7000BLOODLUST|r {spell:2825} on phase.
+|cff00ff00PHASE 2 (Thadrion):|r
+|cffff9933DEFENSIVE|r and |cffff9933DROP|r |cff00fff3Unstable Essence|r at {triangle} at X stacks. Deals more damage at higher stacks, save defensive for 5+ stacks {H}{healer}|cffF8FF64Healers:|r |cffee5555This will need to be dispelled to drop|r{/H}
+|cffff9933FOCUS ADDS|r |cffff00ffErratic Remnant|r after |cff00fff3Unstable Essence|r dispelled
+|cffff9933DODGE|r and |cffff9933DPS|r |cff00fff3Erratic Remnant|r at {triangle}
+|cffff9933DISTANCE|r |cff00fff3Bellowing Roar|r
+{H}{healer} |cffff9933HEAL|r |cff00fff3Violent Eruption|r |cfffff6008s channel|r
+{/H}{T}{tank}|cffF8FF64Tanks:|r  |cffff9933TANK SWAP|r at X stacks, no sooner than 20 seconds
+{/T}{/p2}
+{p3}
+|cff00ff00PHASE 3 (Rionthus):|r
+|cffff9933DEFENSIVE|r and |cffff9933DROP|r |cff00fff3Unstable Essence|r at {triangle} at X stacks. Deals more damage at higher stacks, save defensive for 5+ stacks {H}{healer}|cffF8FF64Healers:|r |cffee5555This will need to be dispelled to drop|r{/H}
+|cffff9933FOCUS ADDS|r |cffff00ffErratic Remnant|r after |cff00fff3Unstable Essence|r dispelled
+|cffff9933COLLIDE|r |cff00fff3Temporal Anomaly|r |cfffff600yellow ball|r to knock away from boss
+|cffff9933MOVE OUT|r |cff00fff3Disintegrate|r |cfffff600beam & circle|r slows and damages
+|cffff9933DODGE TWICE|r |cff00fff3Deep Breath|r |cfffff600flying line|r
+{T}{tank}|cffF8FF64Tanks:|r  |cffff9933TANK SWAP|r at X stacks, no sooner than 20 seconds{/T}
+{/p3}
