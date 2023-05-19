@@ -1,4 +1,5 @@
 Single phase fight.
+Single target.
 Space is reduced the longer the fight takes
 |cffee5555Kill before 100 energy|r
 
