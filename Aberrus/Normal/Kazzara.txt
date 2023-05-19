@@ -1,7 +1,8 @@
 Single phase fight.
+Single Target.
 Mechanics target more players and do more damage as the fight progresses.
 
-|cffFF7000BLOODLUST|r {spell:2825} at 40%.
+|cffFF7000BLOODLUST|r {spell:2825} on pull.
 
 |cffff00ffWhole Fight|r: 
 |cffff9933DODGE|r and |cffff9933USE DEFENSIVE|r |cff00ffffHellsteel Carnage|r |cfffff600swirly|r at 80%, 60% and 40% HP
