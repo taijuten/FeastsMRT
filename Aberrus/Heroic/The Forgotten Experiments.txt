@@ -1,4 +1,5 @@
 Three phase fight.
+Single target with add switch.
 One phase per Boss.
 
 {p1}
