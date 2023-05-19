@@ -1,4 +1,5 @@
 Three phase fight.
+Single target with prio add cleave.
 
 Abilities will knock players into walls and break them.
 Only should try to break wall when needed.
@@ -9,6 +10,8 @@ Only should try to break wall when needed.
 {/T}|cffff9933POSITION|r closely-grouped towards edge to bait |cff00fff3Scorching Bomb|r
 |cffff9933DODGE|r |cff00fff3Scorching Bomb|r |cfffff600fire swirlies|r
 |cffff9933REMOVE DEBUFF|r |cff00fff3Echoing Howl|r with |cff00fff3Searing Breath|r |cfffff600frontal cone|r
+{g1357}{time:0:29,glowall}|cffee5555Clearing Group A|r{/time}
+{/g}{g2468}{time:1:05,glowall}|cffee5555Clearing Group B|r{/time}{/g}
 {c:priest}{Priest}|cffff9933MASS DISPELL|r |cff00fff3Seared|r debuff from |cff00fff3Searing Breath|r
 {/c}{h}{healer}|cffff9933DISPELL|r |cff00fff3Seared|r debuff from |cff00fff3Searing Breath|r
 {/h}|cffff9933DODGE LINE|r |cff00fff3Mass Disintegrate|r |cfffff600blue arrow|r. Can clear |cff00fff3Echoing Howl|r debuff if needed
@@ -26,11 +29,12 @@ Only should try to break wall when needed.
 
 {p3}
 |cff00ff00PHASE 3 (40-0%):|r
-|cffff9933COLLECT|r |cff00fff3Souls|r |cfffff600white swirlies|r during |cff00fff3Emptiness Between Stars|r . Repeat every 10 stacks of |cff00fff3Oblivion|r
+{T}{tank}|cffF8FF64Tanks:|r  |cffff9933POSITION|r After phase change tank on {skull} near middle of room
+{/T}|cffff9933COLLECT|r |cff00fff3Souls|r |cfffff600white swirlies|r during |cff00fff3Emptiness Between Stars|r . Repeat every 10 stacks of |cff00fff3Oblivion|r
 |cff808080Small flares will give you a stacking haste and movement buff for 24s|r
 |cffff9933SOAK|r |cff00fff3Void Bomb|r |cfffff600purple swirlies|r one player per
 |cffff9933SOAK|r |cff00fff3Motes of Oblivion|r |cfffff600small falling swirlies|r|cffee5555 IF YOU'RE CARRYING A|r |cff00fff3Void Bomb|r
-|cffff9933DODGE|r then |cffff9933FOCUS ADDS|r |cff00fff3Cosmic Ascension|r towards |cfffff600large purple circle|r
+|cffff9933DODGE|r to south of platform at {cross} then |cffff9933FOCUS ADDS|r |cff00fff3Cosmic Ascension|r |cfffff600large purple circle|r
 |cffff9933HIDE|r |cff00fff3Scouring Eternity|r behind an |cffff00ffAsteroid|r
 |cffff9933SOAK|r then |cffff9933DODGE|r |cff00fff3Embrace of Nothingness|r |cfffff600large purple swirly|r. |cffee5555Use this to destroy most of the asteroids|r{T}
 {tank}|cffF8FF64Tanks:|r  |cffff9933TANK SWAP|r |cff00fff3Void Slash|r. |cffee5555THIS IS NOW A CLEAVE.|r Mitigate as much DoT damage as possible{/T}
