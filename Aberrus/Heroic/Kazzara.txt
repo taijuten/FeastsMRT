@@ -1,4 +1,5 @@
 Single phase fight.
+Single target.
 Mechanics target more players and do more damage as the fight progresses.
 
 |cffFF7000BLOODLUST|r {spell:2825} at 40%.
