@@ -1,4 +1,5 @@
 Three phase fight.
+Single target with minor cleave in p3.
 
 Abilities will knock players into walls and break them.
 Only should try to break wall when needed.
