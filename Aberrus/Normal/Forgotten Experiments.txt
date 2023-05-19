@@ -1,4 +1,5 @@
 Three phase fight.
+Single Target with minor add cleave.
 One phase per Boss.
 
 {p1}
