@@ -1,4 +1,5 @@
 Two phase fight.
+Prio target fight with cleave.
 
 {p1}
 |cff00ff00PHASE 1 (100-25%):|r
