@@ -1,4 +1,5 @@
 Two phase fight.
+Two-target cleave.
 Stacks DoTs the longer in each phase. DPS Race.
 
 {!p2}
