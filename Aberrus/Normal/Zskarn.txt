@@ -1,4 +1,5 @@
 Single phase fight.
+Single target with prio add switch.
 Space is reduced the longer the fight takes
 
 |cffFF7000BLOODLUST|r {spell:2825} on pull.
